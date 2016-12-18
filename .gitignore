@@ -1,5 +1,7 @@
 # Project-specific ignores
 cam2-env/
+herokudemo/staticfiles
+db.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
