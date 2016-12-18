@@ -1,6 +1,6 @@
-# herokudemo
+# heroku-demo
 
-herokudemo is a personal repository to learn and demonstrate Heroku + Django.
+heroku-demo is a personal repository to learn and demonstrate Heroku + Django.
 
 The goals of the repository are to create a website with:
 
