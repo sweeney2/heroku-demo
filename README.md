@@ -20,6 +20,7 @@ Additional tools I will be looking at:
  - node
  - grunt
  - bower
+ - uglify
  
 *__Note:__ This list may be frequently updated*
   
