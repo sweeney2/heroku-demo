@@ -11,4 +11,14 @@ The goals of the repository are to create a website with:
   - some periodic task
   - a Google map with marked locations
 
+Additional tools I will be looking at:
+
+ - jquery
+ - bootstrap
+ - less
+ - gulp
+ - node
+ 
+*__Note:__ This list may be frequently updated*
+  
 A detailed progress log is located in the repository wiki.
