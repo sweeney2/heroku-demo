@@ -18,6 +18,8 @@ Additional tools I will be looking at:
  - less
  - gulp
  - node
+ - grunt
+ - bower
  
 *__Note:__ This list may be frequently updated*
   
