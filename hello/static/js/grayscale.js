@@ -32,6 +32,13 @@ $('.navbar-collapse ul li a').click(function() {
     $(this).closest('.collapse').collapse('toggle');
 });
 
+// Reverses text as soon as it is updated
+$('#original-text').on('input', function(){
+    reversed = $(this).val().split('').reverse().join('');
+    $('#reversed-text').html(reversed.length ? reversed : '...');
+    console.log(reversed);
+});
+
 // Google Maps Scripts
 var map = null;
 // When the window has finished loading create our google map below
